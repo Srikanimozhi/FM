@@ -86,7 +86,8 @@ plot(t,s);
 ```
 
 Output Waveform
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8e514c23-4fc6-45ac-acb6-4e956e91a45e" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1799c3f0-d371-40b0-8c75-4d933ad79248" />
+
 
 
 
