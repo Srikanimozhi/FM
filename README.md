@@ -78,7 +78,7 @@ ac=9.2;
 c=ac*cos(2*3.14*fc*t);
 subplot(3,1,2);
 plot(t,c);
-b=5.65;
+b=3.15;
 s=ac*cos((2*3.14*fc*t)+(b*sin(2*3.14*fm*t)));
 subplot(3,1,3);
 plot(t,s);
@@ -102,7 +102,7 @@ Frequency Deviation Practical =
 
 Modulation Index Practical	= 
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	= 3.15
 
 
 
