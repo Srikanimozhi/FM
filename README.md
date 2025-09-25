@@ -66,7 +66,7 @@ MODEL GRAPH:
 
 Program
 ```
-am=4.6;
+am=4.7;
 fm=477;
 fc=4770;
 fs=47700
@@ -74,7 +74,7 @@ t=0:1/fs:2/fm;
 m=am*cos(2*3.14*fm*t);
 subplot(3,1,1);
 plot(t,m);
-ac=9.2;
+ac=9.4;
 c=ac*cos(2*3.14*fc*t);
 subplot(3,1,2);
 plot(t,c);
