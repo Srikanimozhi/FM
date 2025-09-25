@@ -99,11 +99,12 @@ Tabulation
 
 Calculation
 
+![WhatsApp Image 2025-09-25 at 21 08 46_37d36cc3](https://github.com/user-attachments/assets/90278b02-a125-4e96-91e6-8cd75fdb96d9)
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 3719
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 7.813
 
 Modulation Index Theoretical	= 3.15
 
